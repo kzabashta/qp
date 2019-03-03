@@ -1,1 +1,1 @@
-# qp
+# Quantitative Platform
