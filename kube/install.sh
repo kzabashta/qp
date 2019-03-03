@@ -1,0 +1,1 @@
+helm install --name influxdb --namespace qp ./influxdb/
