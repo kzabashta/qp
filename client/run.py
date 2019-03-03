@@ -5,7 +5,7 @@ import os
 import asyncio
 from influxdb import InfluxDBClient
 
-from questrade import QTClient
+from api.questrade import QTClient
 
 logging.basicConfig(level=logging.DEBUG,
                         format="[%(asctime)s:%(levelname)s:%(filename)s:%(lineno)s - %(funcName)20s() ] %(message)s",
